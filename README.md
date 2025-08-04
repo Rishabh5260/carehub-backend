@@ -1,4 +1,4 @@
-# 🩺 HealthSync - Health-Tech Backend API
+# 🩺 CareHub - Health-Tech Backend API
 
 A **Spring Boot-based backend application** designed to power a secure, scalable, and modern healthcare system. It manages patients, doctors, appointments, medical records, reports, and more — all through robust RESTful APIs.
 
